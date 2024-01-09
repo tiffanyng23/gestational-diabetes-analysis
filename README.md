@@ -12,6 +12,6 @@ Visceral adipose tissue has been linked with cardiometabolic dysfunction (e.g in
 Reference: Rocha ADS, Bernardi JR, Matos S, et al. Maternal visceral adipose tissue during the first half of pregnancy predicts gestational diabetes at the time of delivery - a cohort study. PLoS One. 2020;15(4):e0232155. Published 2020 Apr 30. doi:10.1371/journal.pone.0232155
 
 ## Plotly Dash App
-[Representation of Data from Study](https://gdm-dashboard-app-a7c46dcffb83.herokuapp.com/)
+[Representation of Data from Study](https://gestational-diabetes-app-945d05536198.herokuapp.com/)
 
 I created an interactive app using Plotly Dash where users can see visualizations of data and identify variable trends or any correlations between variables.
