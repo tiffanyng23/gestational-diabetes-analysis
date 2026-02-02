@@ -1,4 +1,4 @@
-### Clinical Risk Factors for Gestational Diabetes Analysis App
+# Clinical Risk Factors for Gestational Diabetes Analysis App
 I created an interactive app using Plotly Dash where users can see visualizations of data and identify variable trends or any correlations between variables.
 
 ## Project Features
