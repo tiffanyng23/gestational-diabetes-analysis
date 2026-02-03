@@ -3,6 +3,8 @@ I created an interactive, user-driven app using Plotly Dash where users can anal
 
 The [Dataset](https://physionet.org/content/maternal-visceral-adipose/1.0.0/) used is from a study that measured various clinical factors in pregnant women that are shown to be altered in gestational diabetes.
 
+![dashboard](images/gdmdisplay.png)
+
 ### Background on the Relationship Between Visceral Adipose Tissue and Gestational Diabetes
 Study:
 [Maternal visceral adipose tissue during the first half of pregnancy predicts gestational diabetes at the time of delivery – a cohort study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7192370/)
@@ -13,13 +15,18 @@ Reference: Rocha ADS, Bernardi JR, Matos S, et al. Maternal visceral adipose tis
 
 ## Project Features
 This application contains two tabs: Univariate Visualizations and Multivariate Visualizations.
+
 ### Univariate Visualizations
+![univariate](images/univariate.png)
 
 ### Histogram
 Gather insights on distribution of categorical variables in those with and without gestational diabetes. Variables included are ethnicity, type of delivery (c-section vs. vaginal), and number of pregnancies.
 
 ### Boxplot
 Gather insights on the distribution of continuous variables in those with and without gestational diabetes. The following variables can be selected: "mean_diastolic_bp", "mean_systolic_bp", "central_armellini_fat","first_fasting_glucose","bmi_pregestational", "child_birth_weight", "gestational_age_at_birth"current_gestational_age", and "age".
+
+### Multivariate Visualizations
+![multivariate](images/multivariate.png)
 
 ### Scatterplot
 Gather insights on the relationship between two continuous variables using a scatter plot in those with and without gestational diabetes. The following variables can be selected: "mean_diastolic_bp", "mean_systolic_bp", "central_armellini_fat","first_fasting_glucose","bmi_pregestational", "child_birth_weight", "gestational_age_at_birth"current_gestational_age", and "age".
